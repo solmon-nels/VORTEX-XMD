@@ -23,7 +23,7 @@ OWNER_NAME: process.env.OWNER_NAME || "𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© 𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://imgur.com/a/brpeyfS",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/lvvpzw.jpeg",
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || "> VORTEX-XMD AND ALIVE\n\n\nKEEP USING VORTEX-XMD FROM HANSTZ TECH⚡",
 // add alive msg here 
